@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    from lxml import etree
+
+    def find_password(xml_string):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9491
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9491">JetBrains
+    Academy</a></html>
+  time: Fri, 02 Oct 2020 09:10:02 UTC
+record: -1
